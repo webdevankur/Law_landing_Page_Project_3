@@ -16,11 +16,11 @@ Law_landing_Page_Project_3
 ## What have i learned in this Project
 •	CSS Position
 
-•	background position
+•	background image and its properties
 
 • Css Flexbox
 
-•	Pseudo class (on hover effect)
+•	button styling
 
 
 ## Acknowledgement👇
