@@ -5,7 +5,7 @@ Law_landing_Page_Project_3
 
 ## Project Link👇
 
-[click here to see the project]https://famous-yeot-ac3444.netlify.app/)
+[click here to see the project](https://famous-yeot-ac3444.netlify.app/)
 
 ## Project Thumbnail👇
 
